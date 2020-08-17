@@ -17,6 +17,6 @@ clear();
    y = y + 1;
    expand = expand + 1; 
      circle(x,y,expand); 
-     circle 
+    
  
 }

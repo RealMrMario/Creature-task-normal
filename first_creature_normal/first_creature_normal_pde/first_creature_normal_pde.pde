@@ -7,6 +7,7 @@ int x = 1;
 
 int y = 1;
 
+int expand = 1;
 
 
 
@@ -14,6 +15,8 @@ void draw(){
 clear();
   x = x + 1; 
    y = y + 1;
-     circle(x,y,50); 
+   expand = expand + 1; 
+     circle(x,y,expand); 
+     circle 
  
 }
